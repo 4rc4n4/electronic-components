@@ -15,3 +15,12 @@ http://diegorys.es/2016/06/09/como-conectar-un-servomotor-de-180-grados-a-arduin
 **3. Servomotor 360 degrees:** Sample code to control a servo motor 360 degrees. -> Done
 
 http://diegorys.es/2015/10/22/como-conectar-un-servomotor-de-360-grados-a-arduino-uno/
+
+
+**4. IR Receiver:** How to connect a IR Receiver to an Arduino Board. -> Done
+
+http://diegorys.es/2016/06/21/como-hacer-un-receptor-ir-con-arduino/
+
+**5. IR Emitter:** How to connect a IR Emitter to an Arduino Board. -> Done
+
+http://diegorys.es/2016/06/25/como-hacer-un-emisor-ir-con-arduino/
