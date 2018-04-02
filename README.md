@@ -24,3 +24,7 @@ http://diegorys.es/2016/06/21/como-hacer-un-receptor-ir-con-arduino/
 **5. IR Emitter:** How to connect a IR Emitter to an Arduino Board. -> Done
 
 http://diegorys.es/2016/06/25/como-hacer-un-emisor-ir-con-arduino/
+
+**6. LDR:** How to connect a LDR to an Arduino Board. -> Done
+
+*Pending post*
