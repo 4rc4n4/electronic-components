@@ -36,3 +36,7 @@ http://diegorys.es/2016/05/18/como-medir-distancias-con-arduino/
 **8. Rele:** How to connect a Rele to an Arduino Board -> Done
 
 http://diegorys.es/2016/02/25/ejemplo-de-como-controlar-una-lampara-con-arduino-usando-un-rele/
+
+**9. PIR:** How to connect a Sensor PIR SE-10 to an Arduino Board.
+
+http://diegorys.es/2016/06/05/como-hacer-un-detector-de-presencia-con-arduino/
