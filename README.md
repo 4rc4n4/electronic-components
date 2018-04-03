@@ -28,3 +28,7 @@ http://diegorys.es/2016/06/25/como-hacer-un-emisor-ir-con-arduino/
 **6. LDR:** How to connect a LDR to an Arduino Board. -> Done
 
 *Pending post*
+
+**7. HCSR04:** How to connect a HCSR04 to an Arduino Board. -> Done
+
+http://diegorys.es/2016/05/18/como-medir-distancias-con-arduino/
