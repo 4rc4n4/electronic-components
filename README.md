@@ -40,3 +40,5 @@ http://diegorys.es/2016/02/25/ejemplo-de-como-controlar-una-lampara-con-arduino-
 **9. PIR:** How to connect a Sensor PIR SE-10 to an Arduino Board.
 
 http://diegorys.es/2016/06/05/como-hacer-un-detector-de-presencia-con-arduino/
+
+**10. Bluetooth:** 
